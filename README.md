@@ -1,5 +1,3 @@
-# Java Paint Project
-
 # Java Paint Project!
 
 Presenting a Java Paint project where you can draw different shapes and easily add layers. 
