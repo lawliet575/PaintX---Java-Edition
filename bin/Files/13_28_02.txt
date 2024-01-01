@@ -1,0 +1,19 @@
+Hexagon Start Point 180.0 428.0End Point 252.0 512.0
+Hexagon Start Point 180.0 428.0End Point 252.0 512.0
+Hexagon Start Point 180.0 428.0End Point 252.0 512.0
+Hexagon Start Point 180.0 428.0End Point 252.0 512.0
+Hexagon Start Point 180.0 428.0End Point 252.0 512.0
+Hexagon Start Point 180.0 428.0End Point 252.0 512.0
+Hexagon Start Point 180.0 428.0End Point 252.0 512.0
+Hexagon Start Point 180.0 428.0End Point 252.0 512.0
+Hexagon Start Point 180.0 428.0End Point 252.0 512.0
+Hexagon Start Point 180.0 428.0End Point 252.0 512.0
+Hexagon Start Point 180.0 428.0End Point 252.0 512.0
+Hexagon Start Point 180.0 428.0End Point 252.0 512.0
+Pentagram 643 753
+Pentagram 643 753
+Pentagram 643 753
+Pentagram 643 753
+Pentagram 643 753
+Pentagram 643 753
+Pentagram 643 753
