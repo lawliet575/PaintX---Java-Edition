@@ -2,7 +2,8 @@
 
 # Java Paint Project!
 
-Unleash your creativity with our user-friendly Java Paint application. Effortlessly draw various shapes, add layers for depth, and enjoy the freedom of free drawing with enhanced tools.
+Presenting a Java Paint project where you can draw different shapes and easily add layers. 
+This simple and user-friendly application lets you express your creativity by creating drawings with various shapes and adding layers for more depth.
 
 ## Features:
 - Easy drawing of various shapes.
