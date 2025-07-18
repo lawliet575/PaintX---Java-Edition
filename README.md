@@ -11,7 +11,6 @@ This simple and user-friendly application lets you express your creativity by cr
 Happy painting...! 🎨
 
 ## Application Interface
-<img width="598" height="628" alt="Screenshot 2025-07-18 113554" src="https://github.com/user-attachments/assets/e5011003-6aa8-4c81-bd45-6ba4b99225b4" />
-
+<img width="793" height="828" alt="Screenshot 2025-07-18 113926" src="https://github.com/user-attachments/assets/1162d879-fd8c-46f9-adb7-13065983c9ba" />
 
 
